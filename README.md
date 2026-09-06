@@ -1,6 +1,6 @@
 ### ASG Airlines – Data Engineering Case Study
 
-This project is an engineering case study based on airline flight, booking, payment, and passenger data. The project focuses on cleaning the raw data, performing basic transformations and analysis, and creating a Power BI dashboard to understand important airline-related insights.
+This project is a data engineering case study based on airline flight, booking, payment, and passenger data. The project focuses on cleaning the raw data, performing basic transformations and analysis, and creating a Power BI dashboard to understand important airline-related insights.
 
 ### Technologies Used
 
